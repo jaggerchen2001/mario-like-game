@@ -39,7 +39,11 @@ The Game Project is a fun and challenging game where you control a character thr
 To run the game locally, follow these steps:
 
 1. Clone this repository to your computer.
-2. Open the `index.html` file in a modern web browser.
+```
+git clone [repository-url]
+cd [repository-name]
+```
+3. Open the `index.html` file in a modern web browser.
 
 That's it! You're ready to play.
 
