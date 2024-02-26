@@ -9,8 +9,8 @@ Welcome to **Mario Like Game**, a simple game built with JavaScript and p5.js.
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Demo
 ![image](https://github.com/jaggerchen2001/mario-like-game/assets/122486839/a54ee4e6-22c7-4236-ad39-830f07d4266e)
