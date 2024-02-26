@@ -25,7 +25,6 @@ The Game Project is a fun and challenging game where you control a character thr
 - Exciting gameplay: Navigate through canyons, collect items, and aim for the flagpole.
 - Stunning visuals: Enjoy beautiful graphics and animations.
 - High score tracking: Compete with friends to see who can achieve the highest score.
-- Endless fun: The game offers endless levels and challenges.
 
 ## How to Play
 
